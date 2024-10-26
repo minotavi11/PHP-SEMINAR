@@ -1,0 +1,74 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "description": "A story of the fabulously wealthy Jay Gatsby and his love for Daisy Buchanan.",
+        "cover": "https://cms.hubemag.com/wp-content/uploads/2024/03/10-1.jpg",
+        "price": 10.99,
+        "category":"Non-Fiction"
+    },
+    {
+        "title": "1984",
+        "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+        "cover": "https://i.pinimg.com/736x/82/38/46/8238467cfe52403f9477dbed6165e2cb.jpg",
+        "price": 8.99,
+        "category":"Science-Fiction"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "description": "A novel about the serious issues of rape and racial inequality.",
+        "cover": "https://static.wixstatic.com/media/d432fb_31f3d4e000df42b195d7cac3a5c860b8~mv2_d_1734_2286_s_2.jpg/v1/fill/w_320,h_423,q_90/d432fb_31f3d4e000df42b195d7cac3a5c860b8~mv2_d_1734_2286_s_2.jpg",
+        "price": 12.50,
+        "discount_price": 9.99,
+        "category":"Children's Books"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "description": "The experiences of a young boy who leaves his boarding school to wander New York City.",
+        "cover": "https://lostfilm.info/images/photo_actor/73/296576_724431.jpg",
+        "price": 9.75,
+        "category":"Non-Fiction"
+    },
+    {
+        "title": "Simittierre",
+        "description": "Le docteur Louis Creed, sa femme Rachel et leurs deux jeunes enfants quittent Boston pour s'installer dans une région rurale du Maine. Près de sa maison, le docteur découvre un mystérieux cimetière caché au fond des bois. Peu après, une tragédie s'abat sur lui.",
+        "cover": "https://substackcdn.com/image/fetch/w_720,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F153803c3-cd1f-4aae-907a-ea4409aa5c8a_1080x1080.png",
+        "price": 12.50,
+        "discount_price": 9.99,
+        "category":"Horror"
+    },
+    {
+        "title": "Da Foe",
+        "description": "William James Dafoe, dit Willem Dafoe, né le 22 juillet 1955 à Appleton, est un acteur, scénariste et producteur américain.",
+        "cover": "https://www.iconmagazine.it/wp-content/uploads/2013/12/willem-dafoe6.jpg",
+        "price": 10.50,
+        "category":"Poetry"
+    },
+    {
+        "title": "The Call of Cthulhu",
+        "description": "The Call of Cthulhu is a short story by American writer H. P. Lovecraft. Written in the summer of 1926, it was first published in the pulp magazine Weird Tales in February 1928.",
+        "cover": "https://i.pinimg.com/736x/20/b4/d0/20b4d0e6d73f1258628d79f1b8dff768.jpg",
+        "price": 11.666,
+        "category":"Horror"
+    },
+    {
+        "title": "Codex Gigas",
+        "description": "The Codex Gigas, or Devil's Bible, is a massive medieval manuscript from the early 13th century, renowned for its large illustrations, including a full-page depiction of the devil. Legend says it was created in one night by a monk who made a pact with the devil.",
+        "cover": "https://i.pinimg.com/736x/92/3a/4b/923a4b631eede14330be0793ecc7061d.jpg",
+        "price": 666666666666666.00,
+        "category":"Horror"
+    },
+    {
+        "title": "The Fellowship Of The Ring",
+        "description": "Un jeune et timide hobbit, Frodon Sacquet, hérite d'un anneau magique. Sous ses apparences de simple bijou, il s'agit en réalité d'un instrument de pouvoir absolu qui permettrait à Sauron, le Seigneur des ténèbres, de régner sur la Terre du Milieu et de réduire en esclavage ses peuples. ",
+        "cover": "https://static01.nyt.com/images/2023/03/02/t-magazine/02tmag-dafoe-slide-WEO1-copy/02tmag-dafoe-slide-WEO1-copy-mediumSquareAt3X-v2.jpg",
+        "price": 16.00,
+        "category":"Fiction"
+    },
+    {
+        "title": "Edgar Allan Poe",
+        "description": "Edgar Allan Poe, né le 19 janvier 1809 à Boston et mort le 7 octobre 1849 à Baltimore, est un poète, romancier, nouvelliste, critique littéraire, dramaturge et éditeur américain, ainsi que l'une des principales figures du romantisme américain.",
+        "cover": "https://i.mdel.net/i/db/2023/12/2118885/2118885-800w.jpg",
+        "price": 12.00,
+        "category":"Horror"
+    }
+]
